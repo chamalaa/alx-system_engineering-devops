@@ -1,1 +1,2 @@
-My first readme
+shell_basics readme
+
